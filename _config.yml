@@ -1,9 +1,9 @@
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: "My Art Portfolio & Resume"
+description: "A showcase of my latest artwork and technical experience."
 
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: false
+google_analytics: "UA-XXXXXXXXX-X"
 
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
