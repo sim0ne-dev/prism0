@@ -1,9 +1,13 @@
-title: "My Art Portfolio & Resume"
-description: "A showcase of my latest artwork and technical experience."
+title: "art_portfolio_&_resume:~$"
+description: "A look into some of my personal projects and professional experience."
 
-show_downloads: false
-google_analytics: "UA-XXXXXXXXX-X"
+# We use a highly customizable terminal theme repo here
+remote_theme: mdo/terminal
 
-remote_theme: pages-themes/tactile@v0.2.0
+# These settings customize the retro terminal behavior
+theme_config:
+  appearance: "dark" # Keeps it looking like a CRT monitor
+  monospaced_font: true
+
 plugins:
   - jekyll-remote-theme
