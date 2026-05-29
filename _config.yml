@@ -1,8 +1,9 @@
 title: "art_portfolio_&_resume:~$"
 description: "A look into some of my personal projects and professional experience."
 
-# We use a highly customizable terminal theme repo here
-remote_theme: pndurette/jekyll-terminal-theme
+
+# This theme explicitly supports the GitHub Pages remote_theme plugin
+remote_theme: b2a3e8/jekyll-theme-console
 
 # These settings customize the retro terminal behavior
 theme_config:
