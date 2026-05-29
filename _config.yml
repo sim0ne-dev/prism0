@@ -2,7 +2,7 @@ title: "art_portfolio_&_resume:~$"
 description: "A look into some of my personal projects and professional experience."
 
 # We use a highly customizable terminal theme repo here
-remote_theme: mdo/terminal
+remote_theme: pndurette/jekyll-terminal-theme
 
 # These settings customize the retro terminal behavior
 theme_config:
