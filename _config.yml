@@ -10,5 +10,12 @@ theme_config:
   appearance: "dark" # Keeps it looking like a CRT monitor
   monospaced_font: true
 
+
+# This automatically lists these pages in a neat terminal-style header menu!
+header_pages:
+  - index.md
+  - resume.md
+
+  
 plugins:
   - jekyll-remote-theme
